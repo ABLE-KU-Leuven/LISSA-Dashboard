@@ -8,6 +8,14 @@ Screenshot: https://github.com/svencharleer/stbd/blob/master/LISSA-demo.png
 This is a online demon of the LISSA dashboard deployed at the end of the academic year (after resits)
 https://able.cs.kuleuven.be/demo-september/2016/1
 
+## Pointers to publications
+### Case study report
+http://www.ableproject.eu/project/reports-three-institutional-case-studies/.
+
+### Scientific publications 
+* Charleer, S., Moere, A. V., Klerkx, J., Verbert, K., & De Laet, T. (2017). Learning analytics dashboards to support adviser-student dialogue. IEEE Transactions on Learning Technologies. Volume 11, issue 3, https://ieeexplore.ieee.org/abstract/document/7959628/ 
+* Millecamp, M., Gutiérrez, F., Charleer, S., Verbert, K., & De Laet, T. (2018, March). A qualitative evaluation of a learning dashboard to support advisor-student dialogues. In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (pp. 56-60). https://dl.acm.org/citation.cfm?id=3170417 
+
 ## How to...
 Import data from JSON files into meteor database.
 
