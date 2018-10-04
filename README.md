@@ -6,7 +6,7 @@ Screenshot: https://github.com/svencharleer/stbd/blob/master/LISSA-demo.png
 
 ## Online demo
 * Demo for LISSA after the first examination period:
-https://able.cs.kuleuven.be/demo-januari/2017/1 (acces token: demo)
+https://able.cs.kuleuven.be/demo-januari/2017/1 (access token: demo)
 * Demo for LISSA after the second examination period:
 https://able.cs.kuleuven.be/demo-june/2017/1 (access token: demo)
 * Demo for LISSA after the third examination period
