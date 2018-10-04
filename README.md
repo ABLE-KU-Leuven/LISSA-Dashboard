@@ -10,7 +10,13 @@ https://able.cs.kuleuven.be/demo-september/2016/1
 
 ## Pointers to publications
 ### Case study report
-http://www.ableproject.eu/project/reports-three-institutional-case-studies/.
+http://www.ableproject.eu/project/reports-three-institutional-case-studies/
+
+### Data collection and utilization
+http://www.ableproject.eu/project/report-methods-and-tools-to-collect-and-utilise-data/
+
+### Visualization and analysis
+http://www.ableproject.eu/project/report-methods-and-tools-to-visualise-and-analyse-learning-analytics-data/
 
 ### Scientific publications 
 * Charleer, S., Moere, A. V., Klerkx, J., Verbert, K., & De Laet, T. (2017). Learning analytics dashboards to support adviser-student dialogue. IEEE Transactions on Learning Technologies. Volume 11, issue 3, https://ieeexplore.ieee.org/abstract/document/7959628/ 
