@@ -5,7 +5,11 @@ LISSA (“Learning dashboard for Insights and Support during Study Advice”) is
 Screenshot: https://github.com/svencharleer/stbd/blob/master/LISSA-demo.png
 
 ## Online demo
-This is a online demon of the LISSA dashboard deployed at the end of the academic year (after resits)
+* Demo for LISSA after the first examination period:
+https://able.cs.kuleuven.be/demo-januari/2017/1 (acces token: demo)
+* Demo for LISSA after the second examination period:
+https://able.cs.kuleuven.be/demo-june/2017/1 (access token: demo)
+* Demo for LISSA after the third examination period
 https://able.cs.kuleuven.be/demo-september/2016/1
 
 ## Pointers to publications
